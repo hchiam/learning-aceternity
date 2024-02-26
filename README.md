@@ -21,3 +21,20 @@ https://www.youtube.com/watch?v=RPa3_AD1_Vs
   - also more copy+paste than node_modules, for more control over the code as opposed to a component library, but still assumes tailwind and radix ui are installed
   - https://ui.shadcn.com/
   - https://github.com/shadcn-ui/ui
+
+## Demo
+
+Created with:
+
+```sh
+npx create-next-app@latest
+# to create my-app
+```
+
+But to run it as-is:
+
+```sh
+cd my-app
+npm install
+npm run dev
+```
