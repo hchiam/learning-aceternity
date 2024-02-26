@@ -35,6 +35,6 @@ But to run it as-is:
 
 ```sh
 cd my-app
-npm install
-npm run dev
+yarn
+yarn dev
 ```
